@@ -4,7 +4,7 @@
 
 ● 📚 ***Learnig python about 3 years in (💛IT Univer💛) "https://ituniver.com/"***
 
-● ⚡ ***I want to learn Django***![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+● ⚡ ***I want to learn Django*** ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ● 📭 ***How can you contact me***
 
