@@ -2,7 +2,7 @@
 
 ## 🧑‍💻 About me: 
 
-● 📚 ***Learnig python about 3 years in (💛IT Univer💛 "https://ituniver.com/")***
+● 📚 ***Learnig python about 3 years in (💛IT Univer💛) "https://ituniver.com/"***
 
 
 ![My Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
