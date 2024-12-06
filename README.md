@@ -4,7 +4,10 @@
 
 ● 📚 ***Learnig python about 3 years in (💛IT Univer💛) "https://ituniver.com/"***
 
-● ***⚡ I want to learn Django***
+● ⚡ ***I want to learn Django***
+
+● 📭 ***How can you contact me***
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=wh…
 
 
 ![My Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
