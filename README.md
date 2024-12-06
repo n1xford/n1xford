@@ -4,6 +4,8 @@
 
 ● 📚 ***Learnig python about 3 years in (💛IT Univer💛) "https://ituniver.com/"***
 
+● ***⚡ I want to learn Django***
+
 
 ![My Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
 -https://steamcommunity.com/profiles/76561199150519064/
